@@ -19,7 +19,6 @@ public class Trainer {
         Bird b2 = new Bird();
 
     }
-
     private static void getToSpeak(Animal animal) {
         System.out.println(animal.speak());
     }
